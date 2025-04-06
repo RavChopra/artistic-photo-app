@@ -10,8 +10,8 @@
  * - PATCH: Bug fixes and minor improvements
  */
 
-export const APP_VERSION = '1.0.3';
-export const BUILD_DATE = '2023-07-20';
+export const APP_VERSION = '1.0.1';
+export const BUILD_DATE = '2023-07-15';
 
 /**
  * Get the full version string
